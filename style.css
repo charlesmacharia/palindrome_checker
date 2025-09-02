@@ -1,0 +1,22 @@
+body{
+    display: flex;
+     align-items: center; 
+    justify-content: center;
+}
+
+.palindrome_output{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.comment{
+    font-size:medium;
+    font-style: italic;
+    color: grey;
+}
+#input{
+    padding:2;
+    border: soloid;
+    border-radius: 10px;
+}
